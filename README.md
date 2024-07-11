@@ -25,8 +25,8 @@ node blocking-script.js
 
 ## Access the endpoints:
 
-## http://localhost:3000/endpoint1 - Should respond immediately with "This is Endpoint1 Response".
-## http://localhost:3000/endpoint2 - Will perform a blocking operation and might cause the server to be unresponsive.
+http://localhost:3000/endpoint1 - Should respond immediately with "This is Endpoint1 Response".
+http://localhost:3000/endpoint2 - Will perform a blocking operation and might cause the server to be unresponsive.
 
 ## 4. Testing the Non-Blocking Script
 Start the server with the blocking script:
