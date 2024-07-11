@@ -7,9 +7,6 @@ This repository contains an example of an Express server demonstrating the diffe
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Testing the Blocking Script](#testing-the-blocking-script)
-- [Testing the Non-Blocking Script](#testing-the-non-blocking-script)
-- [License](#license)
 
 ## Installation
 
@@ -19,6 +16,8 @@ This repository contains an example of an Express server demonstrating the diffe
 
 ## 2. Install dependencies:
 npm install
+
+## Usage
 
 ## 3. Testing the Blocking Script
 Start the server with the blocking script:
